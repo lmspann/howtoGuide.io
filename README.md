@@ -1,15 +1,30 @@
-# How to Create a Jira Project for Large ERP Solution Implementation
+# Creating a Jira Project for Large Programs
 
 ## Getting Started
 About Jira.
 
-Jira for large project teams.
-
-## Access 
+## Accessing Jira 
 Create a Jira account.
 
 ## Creating a Jira Project
+### Choosing a Project Type
 
-## Epics, User Stories, Bugs, and other Jira Objects
+## Choosing a Project Template and Configuration
+### Relevant Templates
+### Sharing Configurations
+### Customizing Workflows and Issue Types
 
-## TBD
+## Project Structure and Organization 
+### Consdier Business Needs and teams
+### Epics
+### Project Boards
+
+## Managing User Permissions
+### Role Based Access
+
+## Project Tracking and Reporting
+### Roadmaps, Reports and Dashboards
+
+## Automation and Integration
+### Automation Rules
+### Jira Integration with other Tools
